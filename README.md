@@ -1,4 +1,4 @@
-# Bengaluru-House-Pricing-project
+# House-Pricing-project
 
 This project is related to predict House Prices in Bengaluru using different attributes of House.
 
